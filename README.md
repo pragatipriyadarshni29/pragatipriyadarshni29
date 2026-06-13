@@ -33,7 +33,7 @@ I'm actively looking for opportunities where I can contribute, grow, and turn da
 🗂️ Reporting & Dashboards
 🔄 Creative Writing
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ppriyadarshni/)
-                       [Gmail](pragatisinha578@gmail.com)
+### 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ppriyadarshni/)
+                           [Gmail](pragatisinha578@gmail.com)
 
 - ⚡ Fun fact: I went from analyzing cells to analyzing datasets — same curiosity, different microscope! 🔭
