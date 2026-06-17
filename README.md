@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Biology meets data — an unlikely combination that makes for a sharper analyst. 😄
+### Biology meets data — an unlikely combination that makes for a sharper analyst!
 My BSc in Biology trained me to think in systems, spot patterns, and question anomalies — skills that translate directly into data analytics. Where others see rows and columns, I see stories waiting to be uncovered.
 I'm passionate about solving real-world problems through data. Whether it's cleaning messy datasets, building dashboards, or digging into trends to surface actionable insights, I genuinely enjoy every step of the process.
 As a fresher, I've channelled that energy into hands-on projects — deliberately choosing problems that challenge me and push my analytical thinking further. Each project has been a step toward becoming a more confident, well-rounded analyst.
